@@ -1,0 +1,261 @@
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: .2%;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-left: 190%;
+}
+
+nav ul li {
+    padding: 20px;
+    text-decoration: none;
+}
+
+nav ul li a {
+    color: #000;
+    text-decoration: none;
+}
+
+.text {
+    margin-left: 6%;
+    padding: 3%;
+}
+
+.text h1 {
+    font-size: 41px;
+}
+
+.h1c {
+    color: rgb(66, 64, 103);
+}
+
+.h1c1 {
+    color: rgb(251, 126, 95);
+}
+
+
+.gap {
+    margin-top: -14%;
+}
+
+.gap1 {
+    margin-top: -6%;
+}
+
+.gap2 {
+    margin-top: 6%;
+}
+
+.Landing button {
+    background-color: rgb(255, 137, 107);
+    border-radius: 8px;
+
+    padding: 18px 50px;
+    border: none;
+}
+
+.Landing button a {
+
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.img img {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -7%;
+
+}
+
+.Landing {
+    display: flex;
+}
+
+.Landing1 {
+    display: flex;
+    margin-top: -1%;
+
+}
+
+.img1 img {
+    width: 127%;
+    margin-left: 33%;
+    margin-top: -20%;
+
+}
+
+.text1 {
+    margin-left: 26%;
+    padding: 3%;
+    margin-right: 7%;
+    margin-top: 2%;
+}
+
+.gap3 {
+    margin-top: .1%;
+}
+
+.gap4 {
+    margin-top: 6%;
+}
+
+.text1 h1 {
+    font-size: 42px;
+
+}
+
+.Landing1 button {
+    background-color: rgb(255, 137, 107);
+    border-radius: 8px;
+
+    padding: 18px 50px;
+    border: none;
+}
+
+.Landing1 button a {
+
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.Work {
+    display: flex;
+    margin: -6% 0% 0% 0%;
+    padding: 5% 8% 5% 8%;
+    background-color: rgb(246, 248, 248);
+}
+
+.Work img {
+    width: 102%;
+
+
+}
+
+.shadow {
+    box-shadow: 2px 2px 20px rgb(228, 227, 225);
+    margin: 5% 1% 4% 2%;
+    padding: 2.3%;
+    border-radius: 18px;
+    background-color: white;
+
+}
+
+.gap5 {
+    margin-top: 3.5%;
+}
+
+.h3c {
+    color: rgb(66, 64, 103);
+}
+
+.gap6 {
+    margin-top: 1.5%;
+}
+
+.pc {
+    color: rgb(145, 145, 148);
+
+}
+
+.wc {
+    color: rgb(66, 64, 103);
+}
+
+.lc {
+    color: rgb(251, 126, 95);
+}
+
+.Last h1 {
+    text-align: center;
+    margin-top: 4%;
+    padding: 6.5% 3% 0% 3%;
+    background-color: rgb(246, 248, 248);
+    font-size: 41px;
+}
+
+.back {
+    background-image: url(images/back.png);
+
+    display: flex;
+    justify-content: space-between;
+
+    background-size: cover;
+    background-position: center;
+    height: 36%;
+    padding: 2% 0% 3% 12%;
+    margin: 7.5% 17% 6% 17%;
+    border-radius: 30px;
+
+}
+
+.back button {
+    background-color: rgb(255, 137, 107);
+    border-radius: 8px;
+
+    padding: 18px 50px;
+    border: none;
+    margin-left: -50%;
+    margin-top: 35%;
+}
+
+.back button a {
+
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.back h1 {
+    font-size: 50px;
+    color: white;
+    margin-left: -25%;
+
+
+}
+
+.footer {
+    text-align: center;
+    margin-top: 1%;
+}
+
+.Sc {
+    color: rgb(145, 145, 148);
+
+}
+
+.hec {
+    color: rgb(66, 64, 103);
+}
+
+.gap6 {
+    margin-top: -.8%;
+}
+
+.footer_icon {
+    display: flex;
+    margin: 1% 30% 6% 40%;
+    padding: -1%;
+
+}
+
+.footer_icon img {
+    width: 35%;
+
+}
